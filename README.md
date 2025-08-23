@@ -7,10 +7,6 @@ A fun and interactive HTML5 game where you control a platform to catch falling b
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Live Demo
-
-👉 [Play the Game](https://naveenr810953.github.io/my-html5-game/)
-
 ## 🎯 Features
 
 - **Responsive Design** - Plays well on desktop, tablet, and mobile devices  
