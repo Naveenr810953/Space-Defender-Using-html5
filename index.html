@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ball Catcher Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="stars" id="stars"></div>
+        <div class="ui-container">
+            <div class="score">Score: <span id="score">0</span></div>
+            <div class="lives">Lives: <span id="lives">3</span></div>
+            <div class="level">Level: <span id="level">1</span></div>
+        </div>
+        
+        <div class="start-screen" id="startScreen">
+            <h1>BALL CATCHER</h1>
+            <div class="instructions">
+                <p>Catch the falling balls with your platform!</p>
+                <p>Four balls will fall at a time, and their speed will match your movement.</p>
+                <p>Be careful not to miss any balls or you'll lose lives!</p>
+            </div>
+            
+            <div class="ball-preview">
+                <div class="preview-ball" style="background: #FF5252;"></div>
+                <div class="preview-ball" style="background: #4CAF50;"></div>
+                <div class="preview-ball" style="background: #2196F3;"></div>
+                <div class="preview-ball" style="background: #FFEB3B;"></div>
+            </div>
+            
+            <div class="controls">
+                <div class="key">←</div>
+                <div class="key">→</div>
+                <div class="key">SPACE</div>
+            </div>
+            
+            <div class="instructions">
+                <p>Use LEFT and RIGHT arrows to move</p>
+                <p>Press SPACE to start game and to shoot</p>
+            </div>
+            
+            <button id="startButton">START GAME</button>
+        </div>
+        
+        <div class="game-over" id="gameOver">
+            <h1>GAME OVER</h1>
+            <div class="score-display">Your Score: <span id="finalScore">0</span></div>
+            <button id="restartButton">PLAY AGAIN</button>
+        </div>
+        
+        <canvas id="gameCanvas" width="800" height="600"></canvas>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
