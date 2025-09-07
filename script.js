@@ -10,7 +10,7 @@ const finalScoreElement = document.getElementById('finalScore');
 const startButton = document.getElementById('startButton');
 const restartButton = document.getElementById('restartButton');
 
-// Game state
+// Game state  
 let game = {
     running: false,
     score: 0,
