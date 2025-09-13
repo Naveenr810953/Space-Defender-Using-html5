@@ -6,7 +6,7 @@ const livesElement = document.getElementById('lives');
 const levelElement = document.getElementById('level'); 
 const startScreen = document.getElementById('startScreen');
 const gameOverScreen = document.getElementById('gameOver');
-const finalScoreElement = document.getElementById('finalScore');
+const finalScoreElement = document.getElementById('finalScore'); 
 const startButton = document.getElementById('startButton');
 const restartButton = document.getElementById('restartButton');
 
