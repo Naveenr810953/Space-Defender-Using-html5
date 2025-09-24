@@ -10,6 +10,7 @@ const finalScoreElement = document.getElementById('finalScore');
 const startButton = document.getElementById('startButton');
 const restartButton = document.getElementById('restartButton');
 
+// computing the game state is important for the better precision and increasing accuracy of the system
 // Game state  
 let game = {
     running: false,
