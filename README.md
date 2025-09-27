@@ -8,7 +8,7 @@ A fun and interactive HTML5 game where you control a platform to catch falling b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
  
 ## 🎯 Features
-   
+      
 - **Responsive Design** - Plays well on desktop, tablet, and mobile devices  
 - **Engaging Gameplay** - Catch falling balls with your platform  
 - **Modern UI** - Clean, attractive interface with smooth animations  
