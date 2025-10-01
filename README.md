@@ -1,6 +1,6 @@
 # 🎮 HTML5 Ball Catcher Game
 
-A fun and interactive HTML5 game where you control a platform to catch falling balls. Avoid missing the balls to keep your lives and achieve the highest score!
+A fun and interactive HTML5 game where you control a platform to catch falling balls. Avoid missing the balls to keep your lives and achieve the highest score!     
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ A fun and interactive HTML5 game where you control a platform to catch falling b
 - **Touch Controls** - Mobile-friendly touch support  
 - **Projectile Shooting** - Shoot balls with spacebar for extra points  
 
-## 🕹️ How to Play
+## 🕹️ How to Play    
 
 1. Use the **LEFT** and **RIGHT** arrow keys to move your platform  
 2. Press **SPACEBAR** to shoot projectiles at the balls  
