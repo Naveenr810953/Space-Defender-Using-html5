@@ -12,7 +12,7 @@ const restartButton = document.getElementById('restartButton');
 
 // computing the game state is important for the better precision and increasing accuracy of the system
 // Game state  
-let game = {
+let game = {     
     running: false,
     score: 0,
     lives: 3,
