@@ -8,7 +8,7 @@
      - index.html
      - style.css
      - game.js
-
+   
 3. COPY CODE
    - Copy the HTML code into index.html
    - Copy the CSS code into style.css
