@@ -1,7 +1,7 @@
 // Game variables
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
-const scoreElement = document.getElementById('score');
+const scoreElement = document.getElementById('score');   
 const livesElement = document.getElementById('lives');      
 const levelElement = document.getElementById('level');    
 const startScreen = document.getElementById('startScreen');
