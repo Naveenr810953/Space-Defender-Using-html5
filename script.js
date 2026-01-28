@@ -17,7 +17,7 @@ let game = {
     score: 0,
     lives: 3,
     level: 1,
-    speed: 1.5
+    speed: 1.5  
 };
 
 // Player platform
