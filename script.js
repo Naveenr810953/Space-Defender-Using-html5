@@ -19,7 +19,7 @@ let game = {
     level: 1,
     speed: 1.5  
 };
-
+ 
 // Player platform
 const platform = {
     x: canvas.width / 2 - 50,
