@@ -14,7 +14,7 @@ const restartButton = document.getElementById('restartButton');
 // Game state   
 let game = {      
     running: false,      
-    score: 0,
+    score: 0, 
     lives: 3,
     level: 1,
     speed: 1.5  
