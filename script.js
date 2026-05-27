@@ -27,7 +27,7 @@ const platform = {
     width: 100,
     height: 20,
     speed: 8,
-    color: '#4deeea'
+    color: '#4deeea' 
 };
 
 // Ball properties
