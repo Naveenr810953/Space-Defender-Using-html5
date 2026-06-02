@@ -18,7 +18,7 @@ let game = {
     lives: 3,
     level: 1,
     speed: 1.5  
-};
+};  
  
 // Player platform
 const platform = {
